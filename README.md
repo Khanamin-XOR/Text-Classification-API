@@ -1,5 +1,4 @@
-Here's the README — copy everything inside the box below (everything between the four-backtick fences):
-
+![Python](https://img.shields.io/badge/Python-3.10+-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-0.95+-green) ![Docker](https://img.shields.io/badge/Docker-ready-blue) ![License](https://img.shields.io/badge/License-MIT-yellow)
 ````markdown
 # Text-Classification-API
 
